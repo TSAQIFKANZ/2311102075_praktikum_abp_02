@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802347285834",
+    "project_id": "tugas-todo-fcm",
+    "storage_bucket": "tugas-todo-fcm.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802347285834:android:9cd921cb8e8e14e5d655b3",
+        "android_client_info": {
+          "package_name": "com.example.tugas_fcm_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoJGT98Klb_xLUafiWmyxCP5wC7zwT1RQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
